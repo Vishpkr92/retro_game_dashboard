@@ -114,6 +114,3 @@ Planned features for future versions:
 
 Created by Vishal Phansekar
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
