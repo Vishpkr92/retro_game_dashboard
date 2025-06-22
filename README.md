@@ -110,7 +110,12 @@ Planned features for future versions:
 - Sound effects and music
 - Two-player modes for all games
 
-## Credits
+## Published in AWS community
+https://community.aws/content/2yY8bdeK29RotWyxXUobXeffEsz/retro-game-hub-4-classics-built-with-amazon-q-cli-ai 
 
-Created by Vishal Phansekar
+## License
+This project is open source and available for personal and educational use.
+
+## Credits
+Created as part of the Amazon Q CLI Challenge by Vishal Phansekar.
 
